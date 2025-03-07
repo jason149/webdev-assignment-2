@@ -2,7 +2,7 @@
 
 
 ## Overview
-This is a basic webpage that fetches US population data from the [Data USA API](https://datausa.io/api/data?drilldowns=Nation&measures=Population) and displays it in a table. The data is sorted from oldest to most recent year.
+Basic webpage that fetches US population data from the [Data USA API](https://datausa.io/api/data?drilldowns=Nation&measures=Population) and displays it in a table. The data is sorted from oldest to most recent year.
 
 ## Website
 ![image](https://github.com/user-attachments/assets/7a4f265d-e933-4db4-a604-f0a834f556ee)
