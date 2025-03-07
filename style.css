@@ -1,11 +1,9 @@
-/* General Styling */
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #f8f8f8;
     margin: 20px;
 }
 
-/* Table Styling */
 table {
     width: 100%;
     max-width: 800px;
@@ -15,7 +13,6 @@ table {
     border: black;
 }
 
-/* Table Headers */
 th {
     background: #444;
     color: white;
@@ -24,7 +21,6 @@ th {
     text-align: left;
 }
 
-/* Table Rows */
 td {
     padding: 10px;
     border: 2px solid #333;
