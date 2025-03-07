@@ -14,4 +14,4 @@ Basic webpage that fetches US population data from the [Data USA API](https://da
 ![image](https://github.com/user-attachments/assets/67a8b222-ef08-4399-b39e-4add326af959)
 
 ## JavaScript
-![image](https://github.com/user-attachments/assets/e9439ac9-35f5-4db9-9b9b-cc6b600c81b3)
+![image](https://github.com/user-attachments/assets/c223916d-8d8d-4702-9991-0249341e8156)
