@@ -1,0 +1,31 @@
+/* General Styling */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f8f8f8;
+    margin: 20px;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    max-width: 800px;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background: white;
+    border: black;
+}
+
+/* Table Headers */
+th {
+    background: #444;
+    color: white;
+    padding: 10px;
+    border: 2px solid #333;
+    text-align: left;
+}
+
+/* Table Rows */
+td {
+    padding: 10px;
+    border: 2px solid #333;
+}
